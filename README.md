@@ -3,4 +3,4 @@ A working prototype of the Meower Search start page. Currently has Google, Wikip
 
 >**Note**
 >
-> Meower Homepage uses [counter.dev](https://counter.dev) analytics to monitor traffic. You can read their privacy policy [here](https://counter.dev/pages/privacy.html). This does not collect your search query.
+> Meower Homepage uses [counter.dev](https://counter.dev) analytics to monitor traffic. You can read their privacy policy [here](https://counter.dev/pages/privacy.html). This does not collect your search query, however search engines you use may log your query. We do not track you across other websites.
