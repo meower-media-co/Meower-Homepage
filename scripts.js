@@ -2,7 +2,7 @@
 var eng = {},
 	current = {},
 	fadeDur = 200,
-	titlePrefix = "Meower Search / Search ",
+	titlePrefix = "Meower Homepage / Search ",
 	
 	idxWidth = 700,
 	idxLogoFull  = [225,80],
