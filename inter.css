@@ -33,3 +33,19 @@
   src: url("Inter-Bold.woff2?v=3.15") format("woff2"),
        url("Inter-Bold.woff?v=3.15") format("woff");
 }
+
+@font-face {
+  font-family:  'Simvoni';
+  font-style: bold;
+  font-weight: 700;
+  font-display: swap;
+  src: url("https://meower.org/fonts/Simvoni-Bold.ttf")
+}
+
+@font-face {
+  font-family:  'Simvoni'
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://meower.org/fonts/Simvoni.ttf")
+}

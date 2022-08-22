@@ -164,6 +164,7 @@ body {
 	font-weight: 700;
 	padding: 3px 5px;
 	-webkit-border-radius: 3px;
+	border-radius: 3px;
 	-moz-border-radius: 3px;
 	color: #c0c0c0;
 	cursor: pointer;
