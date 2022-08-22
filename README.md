@@ -13,6 +13,7 @@ Meower Homepage is a (currently) WIP homepage for your web browser.
 
 # Dynamic Wallpapers
 The dynamic wallpapers change depending on the time of day in your region. Credit to [vector_control](https://www.reddit.com/user/vector_control/) for the actual images.
+
 <img src="https://i.ibb.co/WFsgT0s/Sunrise.png" width="345" height="164"> <img src="https://i.ibb.co/4ZM1KZq/Day.png" width="345" height="164">
 <img src="https://i.ibb.co/sJQ5Ykx/Evening.png" width="345" height="164"> <img src="https://i.ibb.co/18PJsdM/Night.png" width="345" height="164">
 # Multiple search engines
